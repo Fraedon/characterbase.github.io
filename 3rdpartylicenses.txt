@@ -291,6 +291,9 @@ THE SOFTWARE.
 @firebase/firestore
 Apache-2.0
 
+parse-full-name
+MIT
+
 @angular/cdk
 MIT
 The MIT License
